@@ -1,5 +1,7 @@
  # nimPkg GIT加速
 
+利用加速源解决nim包管理器nimble `git clone` 过慢的问题
+
 ## 使用方法
 
 1. 创建`~/.config/nimble/nimble.ini`写入以下内容
