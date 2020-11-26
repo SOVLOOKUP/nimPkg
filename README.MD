@@ -2,6 +2,8 @@
 
 利用加速源解决nim包管理器nimble `git clone` 过慢的问题
 
+**本仓库PackageList会 1 小时与官方同步一次**
+
 ## 使用方法
 
 1. 创建`~/.config/nimble/nimble.ini`写入以下内容
@@ -16,8 +18,6 @@
    ```
 
 2. 输入`nimble refresh`更新缓存
-
-本仓库PackageList会 1 小时与官方同步一次
 
 ## 其他
 
