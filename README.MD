@@ -6,7 +6,9 @@
 
 ## 使用方法
 
-1. 创建`~/.config/nimble/nimble.ini`写入以下内容
+1. [**linux**]创建`~/.config/nimble/nimble.ini`写入以下内容
+
+   [**windows**]创建`C:\Users\<YourUser>\AppData\Roaming\nimble\nimble.ini`写入以下内容
 
    ```ini
    [PackageList]
@@ -29,11 +31,13 @@
 
 ## 开发
 
-编译使用
+编译
 
-```bash
-nim c -d:ssl -r convert.nim
-```
+`nim c -d:ssl -r convert.nim`
+
+arm64:
+
+`nim c -d:ssl --cpu:arm64 --os:linux -r convert.nim`
 
 ---
 
