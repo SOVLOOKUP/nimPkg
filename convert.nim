@@ -36,3 +36,4 @@ let f = open("packages.json",fmWrite)
 
 when isMainModule:
   f.write convertGithub(pkgjson)
+  echo "syncFinish"
