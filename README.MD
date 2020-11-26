@@ -25,6 +25,16 @@
 
 加速来源：https://github.zhlh6.cn/
 
+
+
+## 开发
+
+编译使用
+
+```bash
+nim c -d:ssl -r convert.nim
+```
+
 ---
 
 
