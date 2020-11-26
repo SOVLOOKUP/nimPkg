@@ -1,6 +1,6 @@
  # nimPkg GIT加速
 
-
+PackageList会 1 小时与官方同步一次
 
 原理：利用ucloud提供的GlobalSSH功能，对ssh协议数据进行加速
 
