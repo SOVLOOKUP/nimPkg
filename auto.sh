@@ -3,7 +3,7 @@
 branch_name=$(git symbolic-ref --short -q HEAD)
 commit=$(date "+%Y-%m-%d %H:%M:%S")
 
-echo | git pull "$branch_name"
+echo | git pull
 echo | ./convert
 echo | git add .
 echo | git commit -m "$commit"
