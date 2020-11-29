@@ -10604,7 +10604,7 @@
   },
   {
     "name": "blosc",
-    "url": "git@git.zhlh6.cn:Skrylar/nblosc",
+    "url": "git@git.zhlh6.cn:Vindaar/nblosc",
     "method": "git",
     "tags": [
       "blosc",
@@ -10613,7 +10613,7 @@
     ],
     "description": "Bit Shuffling Block Compressor (C-Blosc)",
     "license": "BSD",
-    "web": "https://github.com/Skrylar/nblosc"
+    "web": "https://github.com/Vindaar/nblosc"
   },
   {
     "name": "fltk",
@@ -20397,6 +20397,20 @@
     "web": "https://github.com/SolitudeSF/discord_rpc"
   },
   {
+    "name": "runeterra_decks",
+    "url": "git@git.zhlh6.cn:SolitudeSF/runeterra_decks",
+    "method": "git",
+    "tags": [
+      "runeterra",
+      "deck",
+      "encoder",
+      "decoder"
+    ],
+    "description": "Legends of Runeterra deck/card code encoder/decoder",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/runeterra_decks"
+  },
+  {
     "name": "ngtcp2",
     "url": "git@git.zhlh6.cn:status-im/nim-ngtcp2",
     "method": "git",
@@ -20528,5 +20542,64 @@
     "description": "colorizeEcho is a package which colorize echo message on Windows command prompt.",
     "license": "MIT",
     "web": "https://github.com/s3pt3mb3r/colorizeEcho"
+  },
+  {
+    "name": "latexdsl",
+    "url": "git@git.zhlh6.cn:Vindaar/LatexDSL",
+    "method": "git",
+    "tags": [
+      "library",
+      "dsl",
+      "latex"
+    ],
+    "description": "A DSL to generate LaTeX from Nim",
+    "license": "MIT",
+    "web": "https://github.com/Vindaar/LatexDSL"
+  },
+  {
+    "name": "rnim",
+    "url": "git@git.zhlh6.cn:SciNim/rnim",
+    "method": "git",
+    "tags": [
+      "R",
+      "rstats",
+      "bridge",
+      "library",
+      "statistics"
+    ],
+    "description": "A bridge between R and Nim",
+    "license": "MIT",
+    "web": "https://github.com/SciNim/rnim"
+  },
+  {
+    "name": "stdext",
+    "url": "git@git.zhlh6.cn:zendbit/nim.stdext",
+    "method": "git",
+    "tags": [
+      "stdlib",
+      "tool",
+      "util"
+    ],
+    "description": "Extends stdlib make it easy on some case",
+    "license": "BSD",
+    "web": "https://github.com/zendbit/nim.stdext"
+  },
+  {
+    "name": "AccurateSums",
+    "url": "https://gitlab.com/lbartoletti/accuratesums",
+    "method": "git",
+    "tags": [
+      "sum",
+      "float",
+      "errors",
+      "floating point",
+      "rounding",
+      "numerical methods",
+      "number",
+      "math"
+    ],
+    "description": "Accurate Floating Point Sums and Products.",
+    "license": "MIT",
+    "web": "https://gitlab.com/lbartoletti/accuratesums"
   }
 ]
