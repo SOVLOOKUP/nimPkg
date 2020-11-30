@@ -2,7 +2,7 @@
 
 利用加速源解决nim包管理器nimble `git clone` 过慢的问题
 
-**本仓库PackageList会 1 小时与官方同步一次**
+**本仓库PackageList会每小时与官方同步**
 
 ## 使用方法
 
