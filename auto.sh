@@ -1,4 +1,6 @@
 #!/bin/bash
+cd ~/nim/nimpkg
+
 
 branch_name=$(git symbolic-ref --short -q HEAD)
 commit=$(date "+%Y-%m-%d %H:%M:%S")
