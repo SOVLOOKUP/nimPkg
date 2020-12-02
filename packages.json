@@ -20557,6 +20557,19 @@
     "web": "https://github.com/Vindaar/LatexDSL"
   },
   {
+    "name": "nimsimd",
+    "url": "git@git.zhlh6.cn:guzba/nimsimd",
+    "method": "git",
+    "tags": [
+      "simd",
+      "sse",
+      "avx"
+    ],
+    "description": "Pleasant Nim bindings for SIMD instruction sets",
+    "license": "MIT",
+    "web": "https://github.com/guzba/nimsimd"
+  },
+  {
     "name": "rnim",
     "url": "git@git.zhlh6.cn:SciNim/rnim",
     "method": "git",
@@ -20617,5 +20630,16 @@
     "license": "MIT",
     "web": "https://gitlab.com/thisNimAgo/mk",
     "doc": "https://gitlab.com/thisNimAgo/mk"
+  },
+  {
+    "name": "siwin",
+    "url": "git@git.zhlh6.cn:levovix0/siwin",
+    "method": "git",
+    "tags": [
+      "windows",
+      "linux"
+    ],
+    "description": "Simple window maker.",
+    "license": "MIT"
   }
 ]
