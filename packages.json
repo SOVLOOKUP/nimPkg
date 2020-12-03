@@ -11121,6 +11121,17 @@
     "web": "https://github.com/treeform/pixie"
   },
   {
+    "name": "jsony",
+    "url": "git@git.zhlh6.cn:treeform/jsony",
+    "method": "git",
+    "tags": [
+      "json"
+    ],
+    "description": "A loose, direct to object json parser with hooks.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/jsony"
+  },
+  {
     "name": "xdo",
     "url": "git@git.zhlh6.cn:juancarlospaco/nim-xdo",
     "method": "git",
@@ -12836,7 +12847,7 @@
     ],
     "description": "Nimterop makes C/C++ interop within Nim seamless",
     "license": "MIT",
-    "web": "https://github.com/genotrance/nimtreesitter"
+    "web": "https://github.com/genotrance/nimterop"
   },
   {
     "name": "ringDeque",
