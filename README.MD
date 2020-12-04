@@ -14,9 +14,9 @@
    [PackageList]
    
    name = "official"
-   url = "https://raw.githubusercontent.com/SOVLOOKUP/nimPkg/main/packages.json" 
-   # or use proxy
-   # url = "https://g.ioiox.com/https://raw.githubusercontent.com/SOVLOOKUP/nimPkg/main/packages.json"
+   url = "https://raw.fastgit.org/SOVLOOKUP/nimPkg/main/packages.json" 
+   # or use originurl
+   # url = "https://raw.githubusercontent.com/SOVLOOKUP/nimPkg/main/packages.json"
    ```
 
 2. 输入`nimble refresh`更新缓存
