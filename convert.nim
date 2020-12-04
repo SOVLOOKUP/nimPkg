@@ -26,7 +26,7 @@ proc convertGithub(jsonStr:string,source:string = "git@git.zhlh6.cn:"): string =
 proc getOfficalPkg(): Future[string] {.async.} =
   var client = newAsyncHttpClient()
   try:
-    result = await client.getContent("https://cdn.jsdelivr.net/gh/nim-lang/packages/packages.json")
+    result = await client.getContent("https://raw.fastgit.org/nim-lang/packages/master/packages.json")
   except OSError:
     raiseAssert "please check your network"
 
