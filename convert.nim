@@ -30,10 +30,12 @@ proc getOfficalPkg(): Future[string] {.async.} =
   except OSError:
     raiseAssert "please check your network"
 
-let pkgjson = waitFor getOfficalPkg()
-
-let f = open("packages.json",fmWrite)
-
 when isMainModule:
-  f.write convertGithub(pkgjson)
+  let pkgjson = waitFor getOfficalPkg()
+  let f1 = open("packages.json",fmWrite)
+  let f2 = open("packages.bak.json",fmWrite)
+
+  f1.write convertGithub(pkgjson)
+  f2.write convertGithub(pkgjson,"https://hub.fastgit.org/")
+  f1.close;f2.close
   echo "syncFinish"
