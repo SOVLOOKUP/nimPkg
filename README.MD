@@ -5,6 +5,16 @@
 **本仓库PackageList会每小时与官方同步**
 
 ## 使用方法
+### 推荐
+使用工具链unimcli自动链接加速源
+
+`nimble install unimcli`
+
+then:
+
+`unim install pkgname`
+
+### 其他方法
 
 1. [**linux**]创建`~/.config/nimble/nimble.ini`写入以下内容
 
