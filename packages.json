@@ -20712,6 +20712,20 @@
     "web": "https://github.com/unimorg/unimcli"
   },
   {
+    "name": "applicates",
+    "url": "git@git.zhlh6.cn:hlaaftana/applicates",
+    "method": "git",
+    "tags": [
+      "sugar",
+      "macros",
+      "template",
+      "functional"
+    ],
+    "description": "\"pointers\" to cached AST that instantiate routines when called",
+    "license": "MIT",
+    "web": "https://hlaaftana.github.io/applicates/applicates.html"
+  },
+  {
     "name": "timelog",
     "url": "git@git.zhlh6.cn:Clonkk/timelog",
     "method": "git",
