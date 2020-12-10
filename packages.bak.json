@@ -20737,5 +20737,31 @@
     "description": "Simple nimble package to log monotic timings",
     "license": "MIT",
     "web": "https://github.com/Clonkk/timelog"
+  },
+  {
+    "name": "sparseset",
+    "url": "https://hub.fastgit.org/planetis-m/sparseset",
+    "method": "git",
+    "tags": [
+      "sparseset",
+      "library",
+      "datastructures"
+    ],
+    "description": "Sparsets for Nim",
+    "license": "MIT",
+    "web": "https://github.com/planetis-m/sparseset"
+  },
+  {
+    "name": "bitstreams",
+    "url": "https://hub.fastgit.org/sealmove/bitstreams",
+    "method": "git",
+    "tags": [
+      "library",
+      "streams",
+      "bits"
+    ],
+    "description": "Interface for reading per bits",
+    "license": "MIT",
+    "web": "https://github.com/sealmove/bitstreams"
   }
 ]
