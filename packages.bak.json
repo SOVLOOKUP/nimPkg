@@ -9646,7 +9646,7 @@
   },
   {
     "name": "nimlibxlsxwriter",
-    "url": "https://hub.fastgit.org/KeepCoolWithCoolidge/nimlibxlsxwriter",
+    "url": "https://hub.fastgit.org/ThomasTJdev/nimlibxlsxwriter",
     "method": "git",
     "tags": [
       "Excel",
@@ -9655,7 +9655,7 @@
     ],
     "description": "libxslxwriter wrapper for Nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/nimlibxlsxwriter"
+    "web": "https://github.com/ThomasTJdev/nimlibxlsxwriter"
   },
   {
     "name": "nimclutter",
@@ -20763,5 +20763,18 @@
     "description": "Interface for reading per bits",
     "license": "MIT",
     "web": "https://github.com/sealmove/bitstreams"
+  },
+  {
+    "name": "deser",
+    "url": "https://hub.fastgit.org/gabbhack/deser",
+    "method": "git",
+    "tags": [
+      "library",
+      "deserialization",
+      "serialization"
+    ],
+    "description": "De/serialization library for Nim ",
+    "license": "MIT",
+    "web": "https://github.com/gabbhack/deser"
   }
 ]
