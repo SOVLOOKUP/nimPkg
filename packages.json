@@ -1,5 +1,16 @@
 [
   {
+    "name": "azure_translate",
+    "url": "git@git.zhlh6.cn:williamhatcher/azure_translate",
+    "method": "git",
+    "tags": [
+      "translate"
+    ],
+    "description": "Nim Library for Azure Cognitive Services Translate",
+    "license": "MIT",
+    "web": "https://github.com/williamhatcher/azure_translate"
+  },
+  {
     "name": "PhylogeNi",
     "url": "git@git.zhlh6.cn:kerrycobb/PhylogeNi",
     "method": "git",
@@ -21007,5 +21018,18 @@
     "description": "Color Library",
     "license": "MIT",
     "web": "https://github.com/momeemt/Palette"
+  },
+  {
+    "name": "webrod",
+    "url": "git@git.zhlh6.cn:j-a-s-d/webrod",
+    "method": "git",
+    "tags": [
+      "web",
+      "server",
+      "library"
+    ],
+    "description": "webrod",
+    "license": "MIT",
+    "web": "https://github.com/j-a-s-d/webrod"
   }
 ]
