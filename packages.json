@@ -1,5 +1,17 @@
 [
   {
+    "name": "tmplpro",
+    "url": "git@git.zhlh6.cn:mjfh/nim-tmplpro.git",
+    "method": "git",
+    "tags": [
+      "template",
+      "cgi"
+    ],
+    "description": "Text template processor, basic capabilities",
+    "license": "UNLICENSE",
+    "web": "https://mjfh.github.io/nim-tmplpro/"
+  },
+  {
     "name": "azure_translate",
     "url": "git@git.zhlh6.cn:williamhatcher/azure_translate",
     "method": "git",
