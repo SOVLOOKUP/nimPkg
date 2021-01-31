@@ -1,5 +1,17 @@
 [
   {
+    "name": "jhash",
+    "url": "https://hub.fastgit.org/mjfh/nim-jhash.git",
+    "method": "git",
+    "tags": [
+      "hash",
+      "id"
+    ],
+    "description": "Jenkins Hasher producing 32 bit digests",
+    "license": "UNLICENSE",
+    "web": "https://mjfh.github.io/nim-jhash/"
+  },
+  {
     "name": "tmplpro",
     "url": "https://hub.fastgit.org/mjfh/nim-tmplpro.git",
     "method": "git",
@@ -3507,7 +3519,7 @@
   },
   {
     "name": "linalg",
-    "url": "https://hub.fastgit.org/unicredit/linear-algebra",
+    "url": "https://hub.fastgit.org/andreaferretti/linear-algebra",
     "method": "git",
     "tags": [
       "vector",
@@ -3518,7 +3530,7 @@
     ],
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/linear-algebra"
+    "web": "https://github.com/andreaferretti/linear-algebra"
   },
   {
     "name": "sequester",
@@ -3873,7 +3885,7 @@
   },
   {
     "name": "csvtools",
-    "url": "https://hub.fastgit.org/unicredit/csvtools",
+    "url": "https://hub.fastgit.org/andreaferretti/csvtools",
     "method": "git",
     "tags": [
       "CSV",
@@ -3882,7 +3894,7 @@
     ],
     "description": "Manage CSV files",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/csvtools"
+    "web": "https://github.com/andreaferretti/csvtools"
   },
   {
     "name": "httpform",
@@ -4832,7 +4844,7 @@
   },
   {
     "name": "teafiles",
-    "url": "https://hub.fastgit.org/git@github.com:unicredit/nim-teafiles.git",
+    "url": "https://hub.fastgit.org/git@github.com:andreaferretti/nim-teafiles.git",
     "method": "git",
     "tags": [
       "teafiles",
@@ -4841,11 +4853,11 @@
     ],
     "description": "TeaFiles provide fast read/write access to time series data",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/nim-teafiles"
+    "web": "https://github.com/andreaferretti/nim-teafiles"
   },
   {
     "name": "emmy",
-    "url": "https://hub.fastgit.org/git@github.com:unicredit/emmy.git",
+    "url": "https://hub.fastgit.org/git@github.com:andreaferretti/emmy.git",
     "method": "git",
     "tags": [
       "algebra",
@@ -4856,7 +4868,7 @@
     ],
     "description": "Algebraic structures and related operations for Nim",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/emmy"
+    "web": "https://github.com/andreaferretti/emmy"
   },
   {
     "name": "impulse_engine",
@@ -5606,7 +5618,7 @@
   },
   {
     "name": "nimcl",
-    "url": "https://hub.fastgit.org/unicredit/nimcl",
+    "url": "https://hub.fastgit.org/andreaferretti/nimcl",
     "method": "git",
     "tags": [
       "OpenCL",
@@ -5614,11 +5626,11 @@
     ],
     "description": "High level wrapper over OpenCL",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/nimcl"
+    "web": "https://github.com/andreaferretti/nimcl"
   },
   {
     "name": "nimblas",
-    "url": "https://hub.fastgit.org/unicredit/nimblas",
+    "url": "https://hub.fastgit.org/andreaferretti/nimblas",
     "method": "git",
     "tags": [
       "BLAS",
@@ -5628,7 +5640,7 @@
     ],
     "description": "BLAS for Nim",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/nimblas"
+    "web": "https://github.com/andreaferretti/nimblas"
   },
   {
     "name": "fixmath",
@@ -7034,7 +7046,7 @@
   },
   {
     "name": "alea",
-    "url": "https://hub.fastgit.org/unicredit/alea",
+    "url": "https://hub.fastgit.org/andreaferretti/alea",
     "method": "git",
     "tags": [
       "random variables",
@@ -7045,7 +7057,7 @@
     ],
     "description": "Define and compose random variables",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/alea"
+    "web": "https://github.com/andreaferretti/alea"
   },
   {
     "name": "winim",
@@ -7507,7 +7519,7 @@
   },
   {
     "name": "cello",
-    "url": "https://hub.fastgit.org/unicredit/cello",
+    "url": "https://hub.fastgit.org/andreaferretti/cello",
     "method": "git",
     "tags": [
       "string",
@@ -7520,7 +7532,7 @@
     ],
     "description": "String algorithms with succinct data structures",
     "license": "Apache2",
-    "web": "https://unicredit.github.io/cello/"
+    "web": "https://andreaferretti.github.io/cello/"
   },
   {
     "name": "notmuch",
@@ -7693,7 +7705,7 @@
   },
   {
     "name": "nimcuda",
-    "url": "https://hub.fastgit.org/unicredit/nimcuda",
+    "url": "https://hub.fastgit.org/andreaferretti/nimcuda",
     "method": "git",
     "tags": [
       "CUDA",
@@ -7701,7 +7713,7 @@
     ],
     "description": "CUDA bindings",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/nimcuda"
+    "web": "https://github.com/andreaferretti/nimcuda"
   },
   {
     "name": "gifwriter",
@@ -7760,7 +7772,7 @@
   },
   {
     "name": "nimlapack",
-    "url": "https://hub.fastgit.org/unicredit/nimlapack",
+    "url": "https://hub.fastgit.org/andreaferretti/nimlapack",
     "method": "git",
     "tags": [
       "LAPACK",
@@ -7768,7 +7780,7 @@
     ],
     "description": "LAPACK bindings",
     "license": "Apache2",
-    "web": "https://github.com/unicredit/nimlapack"
+    "web": "https://github.com/andreaferretti/nimlapack"
   },
   {
     "name": "jack",
@@ -7798,7 +7810,7 @@
   },
   {
     "name": "neo",
-    "url": "https://hub.fastgit.org/unicredit/neo",
+    "url": "https://hub.fastgit.org/andreaferretti/neo",
     "method": "git",
     "tags": [
       "vector",
@@ -7810,7 +7822,7 @@
     ],
     "description": "Linear algebra for Nim",
     "license": "Apache License 2.0",
-    "web": "https://unicredit.github.io/neo/"
+    "web": "https://andreaferretti.github.io/neo/"
   },
   {
     "name": "httpkit",
@@ -10325,7 +10337,7 @@
   },
   {
     "name": "lda",
-    "url": "https://hub.fastgit.org/unicredit/lda",
+    "url": "https://hub.fastgit.org/andreaferretti/lda",
     "method": "git",
     "tags": [
       "LDA",
@@ -10335,7 +10347,7 @@
     ],
     "description": "Latent Dirichlet Allocation",
     "license": "Apache License 2.0",
-    "web": "https://github.com/unicredit/lda"
+    "web": "https://github.com/andreaferretti/lda"
   },
   {
     "name": "mdevolve",
@@ -21196,5 +21208,146 @@
     "description": "Lazy evaluated sequences",
     "license": "MIT",
     "web": "https://github.com/markspanbroek/nim-lazyseq"
+  },
+  {
+    "name": "filetype",
+    "url": "https://hub.fastgit.org/jiro4989/filetype",
+    "method": "git",
+    "tags": [
+      "lib",
+      "magic-numbers",
+      "file",
+      "file-format"
+    ],
+    "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
+    "license": "MIT",
+    "web": "https://github.com/jiro4989/filetype"
+  },
+  {
+    "name": "arduino",
+    "url": "https://hub.fastgit.org/markspanbroek/nim-arduino",
+    "method": "git",
+    "tags": [
+      "arduino",
+      "platformio",
+      "embedded"
+    ],
+    "description": "Arduino bindings for Nim",
+    "license": "MIT",
+    "web": "https://github.com/markspanbroek/nim-arduino"
+  },
+  {
+    "name": "hats",
+    "url": "https://hub.fastgit.org/davidgarland/nim-hats",
+    "method": "git",
+    "tags": [
+      "array",
+      "arrays",
+      "hat"
+    ],
+    "description": "Various kinds of hashed array trees.",
+    "license": "MIT",
+    "web": "https://github.com/davidgarland/nim-hats"
+  },
+  {
+    "name": "nobject",
+    "url": "https://hub.fastgit.org/Carpall/nobject",
+    "method": "git",
+    "tags": [
+      "nim",
+      "nimble",
+      "nim-lang",
+      "object",
+      "runtime",
+      "dynamic"
+    ],
+    "description": "A partially compile and runtime evaluated object, inspired from .net object",
+    "license": "GPL-3.0",
+    "web": "https://github.com/Carpall/nobject"
+  },
+  {
+    "name": "nimfcuk",
+    "url": "https://hub.fastgit.org/2KAbhishek/nimfcuk",
+    "method": "git",
+    "tags": [
+      "cli",
+      "library",
+      "brainfuck",
+      "compiler",
+      "interpreter"
+    ],
+    "description": "A brainfuck interpreter & compiler implemented in nim",
+    "license": "GPL-3.0",
+    "web": "https://github.com/2KAbhishek/nimfcuk"
+  },
+  {
+    "name": "xam",
+    "url": "https://hub.fastgit.org/j-a-s-d/xam",
+    "method": "git",
+    "tags": [
+      "multipurpose",
+      "productivity",
+      "library"
+    ],
+    "description": "xam",
+    "license": "MIT",
+    "web": "https://github.com/j-a-s-d/xam"
+  },
+  {
+    "name": "nimosc",
+    "url": "https://hub.fastgit.org/Psirus/NimOSC",
+    "method": "git",
+    "tags": [
+      "OSC",
+      "sound",
+      "control",
+      "library",
+      "wrapper"
+    ],
+    "description": "A wrapper around liblo for the Open Sound Control (OSC) protocol",
+    "license": "MIT",
+    "web": "https://github.com/Psirus/NimOSC"
+  },
+  {
+    "name": "guildenstern",
+    "url": "https://hub.fastgit.org/olliNiinivaara/GuildenStern",
+    "method": "git",
+    "tags": [
+      "http",
+      "server"
+    ],
+    "description": "Modular multithreading Linux HTTP server",
+    "license": "MIT",
+    "web": "https://github.com/olliNiinivaara/GuildenStern"
+  },
+  {
+    "name": "ago",
+    "url": "https://hub.fastgit.org/daehee/ago",
+    "method": "git",
+    "tags": [
+      "web",
+      "time",
+      "datetime",
+      "library",
+      "prologue"
+    ],
+    "description": "Time ago in words in Nim",
+    "license": "MIT",
+    "web": "https://github.com/daehee/ago"
+  },
+  {
+    "name": "ducominer",
+    "url": "https://hub.fastgit.org/its5Q/ducominer",
+    "method": "git",
+    "tags": [
+      "miner",
+      "mining",
+      "duco",
+      "duinocoin",
+      "cryptocurrency"
+    ],
+    "description": "A fast, multithreaded miner for DuinoCoin",
+    "license": "MIT",
+    "web": "https://github.com/its5Q/ducominer"
   }
 ]
