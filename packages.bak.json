@@ -11183,6 +11183,20 @@
     "web": "https://github.com/treeform/jsony"
   },
   {
+    "name": "dumpincludes",
+    "url": "https://hub.fastgit.org/treeform/dumpincludes",
+    "method": "git",
+    "tags": [
+      "imports",
+      "includes",
+      "perf",
+      "exe"
+    ],
+    "description": "See where your exe size comes from.",
+    "license": "MIT",
+    "web": "https://github.com/treeform/dumpincludes"
+  },
+  {
     "name": "benchy",
     "url": "https://hub.fastgit.org/treeform/benchy",
     "method": "git",
@@ -21385,6 +21399,20 @@
     "doc": "https://jan0sc.github.io/antlr4nim.html"
   },
   {
+    "name": "nauthy",
+    "url": "https://hub.fastgit.org/lzoz/nauthy",
+    "method": "git",
+    "tags": [
+      "otp",
+      "totp",
+      "hotp",
+      "2factor"
+    ],
+    "description": "Nim library for One Time Password verification and generation.",
+    "license": "MIT",
+    "web": "https://github.com/lzoz/nauthy"
+  },
+  {
     "name": "host",
     "url": "https://hub.fastgit.org/RainbowAsteroids/host",
     "method": "git",
@@ -21425,5 +21453,27 @@
     "description": "Library for external memory manipulation on a windows process",
     "license": "MIT",
     "web": "https://github.com/Sann0/Nimem"
+  },
+  {
+    "name": "eris",
+    "url": "https://git.sr.ht/~ehmry/eris",
+    "method": "git",
+    "tags": [
+      "eris"
+    ],
+    "description": "Encoding for Robust Immutable Storage (ERIS)",
+    "license": "ISC",
+    "web": "http://purl.org/eris"
+  },
+  {
+    "name": "eris_utils",
+    "url": "https://git.sr.ht/~ehmry/eris_utils",
+    "method": "git",
+    "tags": [
+      "eris"
+    ],
+    "description": "Utilities for the Encoding for Robust Immutable Storage (ERIS)",
+    "license": "GPL-3.0",
+    "web": "http://purl.org/eris"
   }
 ]
