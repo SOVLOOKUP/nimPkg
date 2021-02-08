@@ -20889,6 +20889,19 @@
     "web": "https://github.com/Clonkk/timelog"
   },
   {
+    "name": "changer",
+    "url": "git@git.zhlh6.cn:iffy/changer",
+    "method": "git",
+    "tags": [
+      "packaging",
+      "changelog",
+      "version"
+    ],
+    "description": "A tool for managing a project's changelog",
+    "license": "MIT",
+    "web": "https://github.com/iffy/changer"
+  },
+  {
     "name": "sparseset",
     "url": "git@git.zhlh6.cn:planetis-m/sparseset",
     "method": "git",
@@ -20968,6 +20981,20 @@
     "description": "JSON-Binding for deser",
     "license": "MIT",
     "web": "https://github.com/gabbhack/deser_json"
+  },
+  {
+    "name": "bisect",
+    "url": "git@git.zhlh6.cn:berquist/bisect",
+    "method": "git",
+    "tags": [
+      "bisect",
+      "search",
+      "sequences",
+      "arrays"
+    ],
+    "description": "Bisection algorithms ported from Python",
+    "license": "MIT",
+    "web": "https://github.com/berquist/bisect"
   },
   {
     "name": "nodejs",
