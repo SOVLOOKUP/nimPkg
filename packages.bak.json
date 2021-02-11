@@ -18664,7 +18664,7 @@
   },
   {
     "name": "mccache",
-    "url": "https://hub.fastgit.org/abbeymart/mccache",
+    "url": "https://hub.fastgit.org/abbeymart/mccache-nim",
     "method": "git",
     "tags": [
       "web",
@@ -18672,11 +18672,11 @@
     ],
     "description": "mccache package: in-memory caching",
     "license": "MIT",
-    "web": "https://github.com/abbeymart/mccache"
+    "web": "https://github.com/abbeymart/mccache-nim"
   },
   {
     "name": "mcresponse",
-    "url": "https://hub.fastgit.org/abbeymart/mcresponse",
+    "url": "https://hub.fastgit.org/abbeymart/mcresponse-nim",
     "method": "git",
     "tags": [
       "web",
@@ -18687,7 +18687,7 @@
     ],
     "description": "mConnect Standardised Response Package",
     "license": "MIT",
-    "web": "https://github.com/abbeymart/mcresponse"
+    "web": "https://github.com/abbeymart/mcresponse-nim"
   },
   {
     "name": "webrtcvad",
@@ -20693,7 +20693,11 @@
   },
   {
     "name": "defines",
-    "url": "https://hub.fastgit.org/hlaaftana/defines",
+    "alias": "assigns"
+  },
+  {
+    "name": "assigns",
+    "url": "https://hub.fastgit.org/hlaaftana/assigns",
     "method": "git",
     "tags": [
       "sugar",
@@ -20701,9 +20705,9 @@
       "unpacking",
       "assignment"
     ],
-    "description": "syntax sugar for local definitions",
+    "description": "syntax sugar for assignments",
     "license": "MIT",
-    "web": "https://hlaaftana.github.io/defines/defines.html"
+    "web": "https://hlaaftana.github.io/assigns/assigns.html"
   },
   {
     "name": "nimics",
@@ -21544,5 +21548,17 @@
     "description": "Provides access to the rdrand and rdseed instructions. Based on Intel's DRNG Library (libdrng)",
     "license": "MIT",
     "web": "https://github.com/rockcavera/nim-drng"
+  },
+  {
+    "name": "winres",
+    "url": "https://hub.fastgit.org/codehz/nim-winres",
+    "method": "git",
+    "tags": [
+      "windows",
+      "resource"
+    ],
+    "description": "Windows resource file generator",
+    "license": "MIT",
+    "web": "https://github.com/codehz/nim-winres"
   }
 ]
