@@ -21631,5 +21631,32 @@
     "description": "Tiny library to check if a system package is already installed.",
     "license": "MIT",
     "web": "https://gitlab.com/ArMour85/checkpack"
+  },
+  {
+    "name": "xcb",
+    "url": "git@git.zhlh6.cn:SolitudeSF/xcb",
+    "method": "git",
+    "tags": [
+      "xcb",
+      "x11",
+      "bindings",
+      "wrapper"
+    ],
+    "description": "xcb bindings",
+    "license": "MIT",
+    "web": "https://github.com/SolitudeSF/xcb"
+  },
+  {
+    "name": "nimjl",
+    "url": "git@git.zhlh6.cn:Clonkk/nimjl",
+    "method": "git",
+    "tags": [
+      "Nim",
+      "Julia",
+      "Bridge"
+    ],
+    "description": "Nim Julia bridge",
+    "license": "MIT",
+    "web": "https://github.com/Clonkk/nimjl"
   }
 ]
