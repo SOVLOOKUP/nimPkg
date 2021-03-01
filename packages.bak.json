@@ -1,5 +1,19 @@
 [
   {
+    "name": "bionim",
+    "url": "https://hub.fastgit.org/Unaimend/bionim",
+    "method": "git",
+    "tags": [
+      "bioinformatics",
+      "needleman",
+      "wunsch",
+      "needleman-wunsch",
+      "biology"
+    ],
+    "description": "This package tries to provide a lot of the most useful data structures and alogrithms need in the different subfield of bio informatics",
+    "license": "UNLICENSE"
+  },
+  {
     "name": "jhash",
     "url": "https://hub.fastgit.org/mjfh/nim-jhash.git",
     "method": "git",
@@ -11921,7 +11935,7 @@
   },
   {
     "name": "asciigraph",
-    "url": "https://hub.fastgit.org/KeepCoolWithCoolidge/asciigraph",
+    "url": "https://hub.fastgit.org/Yardanico/asciigraph",
     "method": "git",
     "tags": [
       "graph",
@@ -11931,7 +11945,7 @@
     ],
     "description": "Console ascii line charts in pure nim",
     "license": "MIT",
-    "web": "https://github.com/KeepCoolWithCoolidge/asciigraph"
+    "web": "https://github.com/Yardanico/asciigraph"
   },
   {
     "name": "bearlibterminal",
@@ -21658,5 +21672,20 @@
     "description": "Nim Julia bridge",
     "license": "MIT",
     "web": "https://github.com/Clonkk/nimjl"
+  },
+  {
+    "name": "nimflux",
+    "url": "https://gitlab.com/tdely/nimflux",
+    "method": "git",
+    "tags": [
+      "influxdb",
+      "influx",
+      "client",
+      "api",
+      "library"
+    ],
+    "description": "InfluxDB API client library",
+    "license": "MIT",
+    "web": "https://gitlab.com/tdely/nimflux"
   }
 ]
