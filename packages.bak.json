@@ -1,5 +1,16 @@
 [
   {
+    "name": "onnxruntime",
+    "url": "https://hub.fastgit.org/YesDrX/onnxruntime-nim.git",
+    "method": "git",
+    "tags": [
+      "onnxruntime"
+    ],
+    "description": "onnxruntime C Api wrapped for nim",
+    "license": "MIT",
+    "web": "https://github.com/YesDrX/onnxruntime-nim/"
+  },
+  {
     "name": "bionim",
     "url": "https://hub.fastgit.org/Unaimend/bionim",
     "method": "git",
