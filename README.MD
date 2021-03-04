@@ -24,7 +24,7 @@ then:
    [PackageList]
    
    name = "official"
-   url = "https://raw.fastgit.org/SOVLOOKUP/nimPkg/main/packages.json" 
+   url = "https://raw.fastgit.org/SOVLOOKUP/nimPkg/main/packages.bak.json" 
    # or use originurl
    # url = "https://raw.githubusercontent.com/SOVLOOKUP/nimPkg/main/packages.json"
    ```
