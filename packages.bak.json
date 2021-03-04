@@ -1,5 +1,19 @@
 [
   {
+    "name": "gsl",
+    "url": "https://hub.fastgit.org/YesDrX/gsl-nim.git",
+    "method": "git",
+    "tags": [
+      "gsl",
+      "gnu",
+      "numerical",
+      "scientific"
+    ],
+    "description": "gsl C Api wrapped for nim",
+    "license": "GPL3",
+    "web": "https://github.com/YesDrX/gsl-nim/"
+  },
+  {
     "name": "onnxruntime",
     "url": "https://hub.fastgit.org/YesDrX/onnxruntime-nim.git",
     "method": "git",
