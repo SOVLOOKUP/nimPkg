@@ -21879,6 +21879,21 @@
     "web": "https://github.com/MhedhebiIssam/json2xml"
   },
   {
+    "name": "nesper",
+    "url": "git@git.zhlh6.cn:elcritch/nesper",
+    "method": "git",
+    "tags": [
+      "esp32",
+      "esp-idf",
+      "mcu",
+      "microcontroller",
+      "embedded"
+    ],
+    "description": "Nim wrappers for ESP-IDF (ESP32)",
+    "license": "Apache-2.0",
+    "web": "https://github.com/elcritch/nesper"
+  },
+  {
     "name": "zws",
     "url": "git@git.zhlh6.cn:zws-im/cli",
     "method": "git",
